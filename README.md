@@ -2,5 +2,4 @@
 
 |   # Day   | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
-|  01   |  [Introduction](./01_Day_Introduction/helloworld.py) /
-)  |
+|  01   |  [Introduction](./01_Day_Introduction/helloworld.py) |
