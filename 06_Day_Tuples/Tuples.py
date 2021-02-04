@@ -32,6 +32,3 @@ tpl1 = ('item1', 'item2', 'item3')
 del tpl1
 fruits = ('banana', 'orange', 'mango', 'lemon')
 del fruits
-
-
-# 
