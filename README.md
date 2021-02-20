@@ -3,7 +3,7 @@
 |   # Day   | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
 |  01   |  [Introduction](./01_Day_Introduction/helloworld.py) |
-|  02   |  [Variables](./02_Day_Variables_Builtin_Functions.py) |
+|  02   |  [Variables](./02_Day_Variables_Builtin_Functions/variables.py) |
 |  03   |  [Operators](./03_Day_Operators/Operators.py) |
 |  04   |  [Strings](./04_Day_Strings/Strings.py) |
 |  05   |  [Lists](./05_Day_Lists/Lists.py) |
