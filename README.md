@@ -8,7 +8,7 @@
 |  04   |  [Strings](./04_Day_Strings/Strings.py) |
 |  05   |  [Lists](./05_Day_Lists/Lists.py) |
 |  06   |  [Tuples](./06_Day_Tuples/Tuples.py) |
-|  07   |  [Sets](./07_Day_Sets/sets.py) |
+|  07   |  [Sets](./07_Day_Sets/Sets.py) |
 |  08   |  [Dictionaries](./08_Day_Dictionaries/Dictionaries.py) |
 |  09   |  [Conditionals](./09_Day_Conditionals/Conditionals.py) |
 |  10   |  [Loops](./10_Day_Loops/Loops.py) |
