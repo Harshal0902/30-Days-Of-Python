@@ -15,3 +15,4 @@
 |  11   |  [Functions](./11_Day_Functions/Functions.py) |
 |  12   |  [Modules](./12_Day_Modules/Modules.py) |
 |  13   |  [List Comprehension](./13_Day_List_comprehension) |
+|  14   |  [Higher Order Functions](./14_Day_Higher_order_functions) |
