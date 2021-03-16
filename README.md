@@ -16,4 +16,5 @@
 |  12   |  [Modules](./12_Day_Modules/Modules.py) |
 |  13   |  [List Comprehension](./13_Day_List_comprehension) |
 |  14   |  [Higher Order Functions](./14_Day_Higher_order_functions) |
-|  14   |  [Python Type Errors](./15_Day_Python_type_errors) |
+|  15   |  [Python Type Errors](./15_Day_Python_type_errors) |
+|  16   |  [Python Date Time](./16_Day_Python_date_time) |
