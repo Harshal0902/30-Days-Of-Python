@@ -19,4 +19,4 @@
 |  15   |  [Python Type Errors](./15_Day_Python_type_errors) |
 |  16   |  [Python Date Time](./16_Day_Python_date_time) |
 |  17   |  [Exception Handling](./17_Day_Exception_handling) |
-|  18   |  [Regular Expression](./18_Day_Regular_expressions) |
+|  18   |  [Regular Expression](./18_Day_Regular_expressins) |
