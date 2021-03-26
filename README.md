@@ -20,3 +20,5 @@
 |  16   |  [Python Date Time](./16_Day_Python_date_time) |
 |  17   |  [Exception Handling](./17_Day_Exception_handling) |
 |  18   |  [Regular Expression](./18_Day_Regular_expressions) |
+|  19   |  [Day File Handling](./19_Day_File_handling) |
+
